@@ -1,0 +1,19 @@
+-------------------------------
+Data Belanjaan
+-------------------------------
+Id Barang     : 2
+Nama Barang   : PENGHAPUS
+Jumlah Barang : 1
+Harga Barang  : 15000
+-------------------------------
+Total Bayar   : 15000
+--------------------------------------------------------------
+Data Belanjaan
+-------------------------------
+Id Barang     : 1
+Nama Barang   : PULPEN
+Jumlah Barang : 4
+Harga Barang  : 70000
+-------------------------------
+Total Bayar   : 280000
+-------------------------------
